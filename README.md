@@ -1,2 +1,2 @@
 # useful-js-functions
-Repoistory to see and use some useful javascript functions that can help on any projects you're working
+Repoistory to use and add some useful algorithms for any programming language, that can help on any projects you're working
