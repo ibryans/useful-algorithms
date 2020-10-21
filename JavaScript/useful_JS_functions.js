@@ -1,4 +1,4 @@
-e_primo_ou_nao(number) => {
+e_primo_ou_nao = (number) => {
   number = Math.floor(number);
   let dividedBy = [1, number];
   let prime = true;
@@ -6,7 +6,7 @@ e_primo_ou_nao(number) => {
   for (let i = 2; i <=limit; i++) {
     if(!(number%i)) {
       prime = false;
-      dividedBy.push([i, number/i])
+      dividedBy.push(i, number/i)
     }
   }
   return {
